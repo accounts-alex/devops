@@ -1,0 +1,5 @@
+[user]
+	email = admin@cobjet.com
+	name = Cobjet Admin
+[push]
+	default = simple
